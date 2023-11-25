@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritikjha1430" target="blank"><img src="https://img.shields.io/twitter/follow/ritikjha1430?logo=twitter&style=for-the-badge" alt="ritikjha1430" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS, MongoDB, NextJS**
+- 🌱 I’m currently learning **NextJS, ExpressJS, MongoDB, Redux Toolkit**
 
 - 💬 Ask me about **React,tailwind,DaisyUI**
 
